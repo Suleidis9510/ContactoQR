@@ -37,10 +37,18 @@ nav ul li a {
   font-weight: bold;
   padding: 10px;
   transition: color 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 5px;
 }
 
 nav ul li a:hover {
   color: #0056b3;
+}
+
+.flag-icon {
+  width: 20px;
+  height: auto;
 }
 
 main {
