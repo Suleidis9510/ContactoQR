@@ -1,13 +1,7 @@
 :root {
-<<<<<<< HEAD
   --primary-color: #032e8b;       /* Azul principal */
   --secondary-color: #1d4ed8;     /* Azul oscuro para hover */
   --accent-color: FFFFFF80;        /* Azul acento */
-=======
-  --primary-color: #2563eb;       /* Azul principal */
-  --secondary-color: #1d4ed8;     /* Azul oscuro para hover */
-  --accent-color: #3b82f6;        /* Azul acento */
->>>>>>> e2c2a34ec94604ad0da82dca3a18850b9b82e97f
   --light-accent: #dbeafe;        /* Azul muy claro para fondos sutiles */
   --shadow-color: rgba(37, 99, 235, 0.1); /* Sombra azul transparente */
   
